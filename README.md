@@ -1,2 +1,2 @@
 # brianTumorDetectWatershed
-Determine the brain tumor using image segementation
+Determination of the brain tumor using image segementation
